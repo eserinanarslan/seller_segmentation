@@ -1,0 +1,1 @@
+SELECT * FROM `ps-analytics-prod.markus.seller_segments_20230421`
